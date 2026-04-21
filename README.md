@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Amir! 👋
 
-<!--
-**elaygg/elaygg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer with a strong foundation in backend engineering, data analytics, and applied optimization. I enjoy building robust applications and exploring the intersection of traditional software development, mathematical modeling, and modern AI integrations.
 
-Here are some ideas to get you started:
+### 🛠 Core Competencies
+* **Languages:** Python, C#, SQL, R
+* **Algorithms & Optimization:** Operations Research, Heuristic Search (Genetic Algorithms, Simulated Annealing), Linear Programming
+* **Web Development & Data:** Flask, HTML, CSS, SAS, Relational Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Applied Tools & Integrations (Project-Based)
+* **AI & Architecture:** FastAPI, OpenAI API, LangChain, Vector Databases (ChromaDB), Make.com
+* **Infrastructure:** DigitalOcean (VPS), Git, Uvicorn, Ngrok
+
+### 🚀 Highlight Project
+* [AI Dental Clinic Agent](https://github.com/elaygg/ai-dental-clinic-bot) - A fully functional AI assistant built to consult patients and process complex clinic data. I configured and deployed a RAG architecture using LangChain and ChromaDB to ensure accurate responses, integrated via Make.com webhooks and hosted on a Linux VPS.
+
+### 📫 How to reach me
+* Telegram: [@elaytm]
+* LinkedIn: [Amir Namatov](www.linkedin.com/in/amir-namatov-aa4349298)
