@@ -12,8 +12,8 @@ I'm a Software Developer with a strong foundation in backend engineering, data a
 * **Infrastructure:** DigitalOcean (VPS), Git, Uvicorn, Ngrok
 
 ### 🚀 Highlight Project
-* [AI Dental Clinic Agent](https://github.com/elaygg/ai-dental-clinic-bot) - A fully functional AI assistant built to consult patients and process complex clinic data. I configured and deployed a RAG architecture using LangChain and ChromaDB to ensure accurate responses, integrated via Make.com webhooks and hosted on a Linux VPS.
-* [Neuroevolution: MLP Weight Optimization via GA & DE](https://github.com/elaygg/neuroevolution-mlp/tree/main) - Trained a neural network using Genetic Algorithms and Differential Evolution instead of standard gradient descent.
+* [AI Dental Clinic Agent](https://github.com/elaygg/ai-dental-clinic-bot) - A fully functional AI assistant built to consult patients and process complex clinic data.
+* [Neuroevolution: MLP Weight Optimization via GA & DE](https://github.com/elaygg/neuroevolution-mlp/tree/main) - Trained a neural network using Genetic Algorithms and Differential Evolution.
 
 ### 📫 How to reach me
 * Telegram: [@elaytm]
