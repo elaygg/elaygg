@@ -19,6 +19,7 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Peewee ORM](https://img.shields.io/badge/Peewee_ORM-412991?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Relational DBs](https://img.shields.io/badge/Relational_DBs-336791?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Algorithms & Optimization**
