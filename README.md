@@ -28,6 +28,8 @@ Software & Backend Developer with a focus on core Python/C# system architecture,
 
 **Algorithms & Optimization**
 
+![Simulated Annealing](https://img.shields.io/badge/Simulated_Annealing-FF4500?style=for-the-badge&logo=algorithm&logoColor=white)
+![Hill Climbing](https://img.shields.io/badge/Hill_Climbing-008080?style=for-the-badge&logo=target&logoColor=white)
 ![Genetic Algorithms](https://img.shields.io/badge/Genetic_Algorithms-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Differential Evolution](https://img.shields.io/badge/Differential_Evolution-2EA44F?style=for-the-badge&logo=scipy&logoColor=white)
 ![Heuristic Search](https://img.shields.io/badge/Heuristic_Search_(A*--BFS--DFS)-FF6F61?style=for-the-badge&logo=google-mind&logoColor=white)
