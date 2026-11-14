@@ -9,8 +9,6 @@ Software & Backend Developer with a focus on core Python/C# system architecture,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-0174DF?style=for-the-badge&logo=sas&logoColor=white)
 
 **Backend & Web**
 
@@ -33,6 +31,11 @@ Software & Backend Developer with a focus on core Python/C# system architecture,
 ![Genetic Algorithms](https://img.shields.io/badge/Genetic_Algorithms-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Differential Evolution](https://img.shields.io/badge/Differential_Evolution-2EA44F?style=for-the-badge&logo=scipy&logoColor=white)
 ![Heuristic Search](https://img.shields.io/badge/Heuristic_Search_(A*--BFS--DFS)-FF6F61?style=for-the-badge&logo=google-mind&logoColor=white)
+
+**Also** 
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0174DF?style=for-the-badge&logo=sas&logoColor=white)
 
 ---
 
