@@ -1,15 +1,13 @@
 # Amir Namatov
 
-Software & Backend Developer with a focus on core Python/C# system architecture, relational database design, and algorithmic optimization (heuristic search, operations research).
+Python backend developer · Informatics student at CZU Prague (graduating June 2027)
 
 ## Featured projects
 - **[AI Dental Clinic Assistant](https://github.com/elaygg/ai-dental-clinic-bot)**: FastAPI + RAG (ChromaDB, OpenAI API) for a real clinic. Answers questions about prices and payments, hands off medical questions to a human. [Demo video](https://www.loom.com/share/3cca72ef58d14165939fc0a1a55c584c)
 - **[Event Platform](https://github.com/elaygg/event-platform)**: Flask, SQLite/Peewee, Docker Compose. Registration, admin panel, personal dashboard.
 - **[Fitness Center DB](https://github.com/elaygg/fitness-center-db)**: PostgreSQL schema (8+ entities, ERD) and 25 queries cross-checked with relational algebra.
 
-### 🛠 Hard Skills
-
-**Languages**
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
